@@ -1,2 +1,2 @@
-# qas
+# qaToptunov
 Для группы qa322
